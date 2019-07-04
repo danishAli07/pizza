@@ -1,0 +1,3 @@
+// Generated code from Butter Knife. Do not modify!package com.earnbygame.ebgsoldier.fragment;
+
+    import android.support.annotation.CallSuper;import android.support.annotation.UiThread;import android.view.View;import android.widget.ImageView;import android.widget.Tex

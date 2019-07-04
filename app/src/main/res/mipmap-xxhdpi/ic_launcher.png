@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@drawable/bg_main_front"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="45dp"
+        android:padding="8dp"
+        android:background="@drawable/bg_simple_transparent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_profile_name"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:gravity="center_horizontal"
+            android:text="Tousif Akram"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            />
+            <LinearLayout
+                android:padding="5dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <android.support.v7.widget.CardView
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    app:cardCornerRadius="50dp">
+                    <ImageView
+                        android:layout_alignParentTop="true"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ebg_logo"
+                        android:id="@+id/iv_profile_pic"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+                </android.support.v7.widget.CardView>
+                <View
+                    android:layout_marginTop="8dp"
+                    android:background="@color/white"
+                    android:layout_width="match_parent"
+                    android:layout_height=".5dp"/>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:textSize="12sp"
+                            android:text="Match Played"
+                            android:textColor="@color/white"
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp" />
+                        <TextView
+                            android:id="@+id/tv_match_played"
+                            android:textSize="14dp"
+                            android:textColor="@color/golden"
+                            android:textStyle="bold"
+                            android:text="521"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_weight=".01"
+                        android:background="@color/white"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"/>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:gravity="center"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:textSize="12sp"
+                            android:text="Total Earn"
+                            android:textColor="@color/white"
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp" />
+                        <TextView
+                            android:id="@+id/tv_total_earn"
+                            android:textSize="14dp"
+                            android:textColor="@color/golden"
+                            android:textStyle="bold"
+                            android:text="₹ 55000"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                    </LinearLayout>
+                    <View
+                        android:layout_weight=".01"
+                        android:background="@color/white"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"/>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:gravity="center"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:textSize="12sp"
+                            android:text="Total Killed"
+                            android:textColor="@color/white"
+                            android:layout_width="wrap_content"
+                            android:layout_height="20dp" />
+                        <TextView
+                            android:id="@+id/tv_total_kill"
+                            android:textSize="14dp"
+                            android:textColor="@color/golden"
+                            android:textStyle="bold"
+             
