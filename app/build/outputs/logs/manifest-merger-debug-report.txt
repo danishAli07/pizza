@@ -1,16 +1,19 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\b28bbf2303e907fb801d21b0910e187b\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\c46f1c317967d67078d1d517064856de\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\298ba512e282df590efe66d60a948d34\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\2d9b48d235f75c8e4465e97ae6e25e52\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\c73330313455759729e9100fadb0582b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\f378da19cb29101067bae5886062ed50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\3ccf15b3bc365808ca8470cf98ff662f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\b613bdf7b20d802a14c7e2dfa81ee1a0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\928ac077a970a4cc8fde2c640145addf\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\57565dfcb79c96c5a7dbea8e17152280\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\10723dfc7a5d5e1f45218be9b3dbbaa5\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\cf0c5b746459fa2d58e20912a7bf1ef0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\88e478c3b18dc68ffcd90c0e6b9c1be3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\cff4045b379ab32ace55f60306b9650b\AndroidManifest.xml:17:1-22:12
@@ -27,31 +30,35 @@ MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ali Dvl\.gradle\c
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\ffb78bf9cb020f2aa885edc5ad3fabf2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\59b2a1dbf774252e989753ad487b5d63\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\5c3661d2952d58303d65fb11d33ad486\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\53b21b63b43e54d268a7c7a01434661e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\cc577be382fe855fab603315093c6800\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\ac51894803d4dee10bf0f38078951308\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\e379a89056485c57895505cedc4c1470\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\53b21b63b43e54d268a7c7a01434661e\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:3:5-24
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\298ba512e282df590efe66d60a948d34\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\298ba512e282df590efe66d60a948d34\AndroidManifest.xml:9:5-20
+ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\b28bbf2303e907fb801d21b0910e187b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\b28bbf2303e907fb801d21b0910e187b\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\a3d54f1ea2031e8f97ef85ba97e8ddfb\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\a3d54f1ea2031e8f97ef85ba97e8ddfb\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\96089be80351848b5af5f3578e17873e\AndroidManifest.xml:22:5-23:19
@@ -59,49 +66,55 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ali Dvl\.g
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\a3d54f1ea2031e8f97ef85ba97e8ddfb\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.pizza.MainActivity
-ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.synuptest.view.MainActivity
+ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:14:19-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\b28bbf2303e907fb801d21b0910e187b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\b28bbf2303e907fb801d21b0910e187b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\c46f1c317967d67078d1d517064856de\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\c46f1c317967d67078d1d517064856de\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\298ba512e282df590efe66d60a948d34\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\298ba512e282df590efe66d60a948d34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\2d9b48d235f75c8e4465e97ae6e25e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\2d9b48d235f75c8e4465e97ae6e25e52\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\c73330313455759729e9100fadb0582b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\c73330313455759729e9100fadb0582b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\f378da19cb29101067bae5886062ed50\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\f378da19cb29101067bae5886062ed50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\3ccf15b3bc365808ca8470cf98ff662f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\3ccf15b3bc365808ca8470cf98ff662f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\b613bdf7b20d802a14c7e2dfa81ee1a0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\b613bdf7b20d802a14c7e2dfa81ee1a0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\928ac077a970a4cc8fde2c640145addf\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\928ac077a970a4cc8fde2c640145addf\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\57565dfcb79c96c5a7dbea8e17152280\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\57565dfcb79c96c5a7dbea8e17152280\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\10723dfc7a5d5e1f45218be9b3dbbaa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\10723dfc7a5d5e1f45218be9b3dbbaa5\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\cf0c5b746459fa2d58e20912a7bf1ef0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\cf0c5b746459fa2d58e20912a7bf1ef0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\88e478c3b18dc68ffcd90c0e6b9c1be3\AndroidManifest.xml:20:5-44
@@ -134,21 +147,21 @@ MERGED from [com.android.support:print:28.0.0] C:\Users\Ali Dvl\.gradle\caches\t
 MERGED from [com.android.support:print:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\59b2a1dbf774252e989753ad487b5d63\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\5c3661d2952d58303d65fb11d33ad486\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\5c3661d2952d58303d65fb11d33ad486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\53b21b63b43e54d268a7c7a01434661e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\53b21b63b43e54d268a7c7a01434661e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\cc577be382fe855fab603315093c6800\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\cc577be382fe855fab603315093c6800\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\ac51894803d4dee10bf0f38078951308\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\ac51894803d4dee10bf0f38078951308\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\e379a89056485c57895505cedc4c1470\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\e379a89056485c57895505cedc4c1470\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\53b21b63b43e54d268a7c7a01434661e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ali Dvl\.gradle\caches\transforms-2\files-2.1\53b21b63b43e54d268a7c7a01434661e\AndroidManifest.xml:20:5-44
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-		ADDED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
-		INJECTED from F:\private android project\Git_repo\pizza\app\src\main\AndroidManifest.xml
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+		ADDED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml
+		INJECTED from F:\private android project\synup_test\app\src\main\AndroidManifest.xml

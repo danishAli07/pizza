@@ -1,3 +1,16 @@
-// Generated code from Butter Knife. Do not modify!package com.earnbygame.ebgsoldier.fragment;
-
-    import android.support.annotation.CallSuper;import android.support.annotation.UiThread;import android.view.Vi
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9f8202</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorTheme">#000000</color>
+    <color name="colorThemeDark">#3e3e3e</color>
+    <color name="golden">#9f8202</color>
+    <color name="colorThemeGolden">#9f8202</color>
+    <color name="black">#000</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#c7c6c6</color>
+    <color name="red">#dc0315</color>
+    <color name="light_grey">#e6e4e4</color>
+    <color name="blue">#0216f9</color>
+</resources>
